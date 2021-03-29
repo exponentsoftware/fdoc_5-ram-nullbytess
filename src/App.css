@@ -1,0 +1,13 @@
+.heading{
+  text-align: center;
+  text-decoration: underline;
+  height: 60px;
+  font-family: 'Barlow', sans-serif;
+
+}
+.data{
+  font-family: 'Barlow', sans-serif;
+  font-size: large;
+  align-items: center;
+  padding: 0px 0px 0px 600px;
+}
